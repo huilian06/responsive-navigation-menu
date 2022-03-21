@@ -1,6 +1,6 @@
 # navmenu
 
-![CHEESE!](screenshot/picture1.png)
+![CHEESE!](../picture1.png)
 
 ## Project setup
 ```
