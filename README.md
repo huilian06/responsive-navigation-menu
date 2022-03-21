@@ -1,5 +1,7 @@
 # navmenu
 
+![CHEESE!](screenshot/picture1.png)
+
 ## Project setup
 ```
 npm install
