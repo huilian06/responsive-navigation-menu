@@ -1,6 +1,6 @@
 # navmenu
 
-![Picture1](screenshot/picture1.png)
+<img width="921" alt="picture1" src="https://user-images.githubusercontent.com/102006174/159274778-22570e9b-17af-4b80-b70a-244a81fc7503.PNG">
 
 ## Project setup
 ```
